@@ -1,2 +1,9 @@
 data/
 scRNAseq_processing_tutorial_SOLUTION.ipynb
+protocols/
+models/
+references/
+PCW3_top100_DE_genes_per_cluster_res1.csv
+PCW4_top100_DE_genes_per_cluster_res1.csv
+ref_annotation_PCW3.ipynb
+ref_annotation_PCW4.ipynb
