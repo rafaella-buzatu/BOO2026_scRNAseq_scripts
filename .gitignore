@@ -7,3 +7,7 @@ PCW3_top100_DE_genes_per_cluster_res1.csv
 PCW4_top100_DE_genes_per_cluster_res1.csv
 ref_annotation_PCW3.ipynb
 ref_annotation_PCW4.ipynb
+test.ipynb
+pca_loadings.svg
+pca_loading_contributions.svg
+pca_plots.svg
